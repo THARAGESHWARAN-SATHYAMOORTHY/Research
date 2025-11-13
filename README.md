@@ -61,13 +61,6 @@ DARME inverts the traditional asymmetric disadvantage by transforming **reconnai
 # Transfer learning across organizational environments
 ```
 
-### Cloud-Native Scalability
-```yaml
-# Kubernetes-native container deployment
-# Infrastructure-as-Code integration
-# Multi-cloud federation (AWS, Azure, GCP)
-```
-
 ---
 
 ## Novel Contributions
