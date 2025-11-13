@@ -1,7 +1,6 @@
 # Countering AI-Driven Penetration Testing Through Dynamic Deception
 
-## DARME Framework
-**Deceptive Adaptive Reconnaissance Manipulation Engine**
+## Deceptive Adaptive Reconnaissance Manipulation Engine Framework (DARME)
 
 ---
 
@@ -99,4 +98,4 @@ For comprehensive implementation details, see:
 
 ---
 
-**Research Classification**: Cybersecurity | AI/ML Defense | Active Deception | Cloud Security
+**Research Classification**: Cybersecurity | AI/ML Defense | Active Deception
