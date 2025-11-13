@@ -19,7 +19,8 @@ DARME inverts the traditional asymmetric disadvantage by transforming **reconnai
 
 ## Framework Architecture
 
-![Complete Framework Flow](flow.png)
+<img width="4381" height="6512" alt="Complete Flow" src="https://github.com/user-attachments/assets/a988d499-4e39-4cf8-a7fb-a5e7946d88a5" />
+
 
 ### DARME: Four-Layer Defense Engine
 
