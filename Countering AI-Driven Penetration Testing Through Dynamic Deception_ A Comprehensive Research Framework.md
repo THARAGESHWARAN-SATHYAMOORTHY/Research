@@ -4,7 +4,7 @@
 
 The cybersecurity landscape faces an unprecedented threat transformation with AI-powered penetration testing tools like BurpGPT and PentestGPT democratizing sophisticated attack capabilities. These tools leverage large language models to automate reconnaissance, vulnerability analysis, and exploitation chains at unprecedented speeds and scales, fundamentally altering defensive requirements.
 
-This research proposes a comprehensive active defense framework that employs deception technology specifically against AI-augmented threats. Unlike traditional honeypots designed for human attackers, our approach targets the cognitive and operational patterns of AI-driven tools through:
+This research proposes **DARME (Deceptive Adaptive Reconnaissance Manipulation Engine)**, a comprehensive active defense framework that employs deception technology specifically against AI-augmented threats. Unlike traditional honeypots designed for human attackers, our approach targets the cognitive and operational patterns of AI-driven tools through:
 
 - **AI-Specific Reconnaissance Disruption**: Adversarial data injection and prompt confusion techniques that exploit LLM reasoning vulnerabilities
 - **Dynamic Adaptive Deception**: GAN-based decoy generation and reinforcement learning-powered engagement optimization
@@ -24,7 +24,7 @@ The emergence of AI-driven penetration testing tools represents a paradigm shift
 
 ### 1.2 Research Motivation
 
-Current deception technologies lack AI-specific countermeasures, suffer from scalability constraints, and fail to adapt in real-time to sophisticated adversaries. This research addresses these fundamental gaps through a novel framework that:
+Current deception technologies lack AI-specific countermeasures, suffer from scalability constraints, and fail to adapt in real-time to sophisticated adversaries. This research addresses these fundamental gaps through **DARME**, a novel framework that:
 
 1. Targets AI cognitive patterns rather than human decision-making
 2. Employs real-time adaptive learning mechanisms
@@ -298,8 +298,10 @@ Organizations face significant barriers implementing deception:
 
 ### 4.1 Design Philosophy and Strategic Approach
 
+**DARME (Deceptive Adaptive Reconnaissance Manipulation Engine)** represents a paradigm shift in defensive cybersecurity, specifically engineered to counter AI-powered penetration testing tools.
+
 #### Inverting the Adversarial Paradigm
-Traditional cybersecurity operates under asymmetric disadvantage: defenders must succeed continuously while attackers need only one successful breach. Our framework inverts this dynamic by transforming reconnaissance—the attacker's necessary first step—into a liability:
+Traditional cybersecurity operates under asymmetric disadvantage: defenders must succeed continuously while attackers need only one successful breach. DARME inverts this dynamic by transforming reconnaissance—the attacker's necessary first step—into a liability:
 
 - Every network scan potentially triggers detection
 - Every enumeration attempt may engage with deception
@@ -307,14 +309,14 @@ Traditional cybersecurity operates under asymmetric disadvantage: defenders must
 - Every credential found might lead to honeypot environments
 
 #### Targeting AI Cognitive Patterns
-Unlike traditional honeypots designed for human attackers, our framework specifically targets AI reasoning processes:
+Unlike traditional honeypots designed for human attackers, DARME specifically targets AI reasoning processes:
 
 - **Exploiting LLM Vulnerabilities**: Prompt injection confusion, context overflow, adversarial examples
 - **Disrupting Pattern Recognition**: Adversarial data injection misleading ML-based analysis
 - **Defeating Automated Decision-Making**: Creating decision points where AI tools make incorrect risk assessments
 
 #### Preserving Operational Integrity
-The framework operates as transparent middleware, ensuring:
+DARME operates as transparent middleware, ensuring:
 - Zero impact on legitimate user operations  
 * No interference with production application performance  
 * Complete separation between deception and genuine assets  
@@ -999,7 +1001,7 @@ module "honeypot_cluster" {
 
 ## 7. Conclusion
 
-This comprehensive framework addresses the critical gap in cybersecurity defenses against AI-powered penetration testing tools. By specifically targeting the cognitive patterns and operational characteristics of AI-driven attackers, the proposed solution offers:
+The **DARME (Deceptive Adaptive Reconnaissance Manipulation Engine)** framework addresses the critical gap in cybersecurity defenses against AI-powered penetration testing tools. By specifically targeting the cognitive patterns and operational characteristics of AI-driven attackers, the proposed solution offers:
 
 1. **AI-Specific Countermeasures**: LLM prompt confusion, adversarial example generation, and pattern disruption techniques that exploit known vulnerabilities in AI reasoning processes
 
