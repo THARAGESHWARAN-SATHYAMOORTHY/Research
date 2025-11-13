@@ -67,7 +67,6 @@ DARME inverts the traditional asymmetric disadvantage by transforming **reconnai
 
 1. **AI-Specific Deception**: First framework targeting LLM cognitive patterns and ML reconnaissance tools
 2. **Real-Time RL Optimization**: Continuous honeypot adaptation during active engagements  
-3. **Cloud-Native Architecture**: Seamless scaling with modern ephemeral workloads
 4. **Integrated Defense Orchestration**: Unified coordination between deception, MTD, and traditional security
 
 ---
